@@ -1,5 +1,9 @@
 ## Olá , Hallo, Hola and Hello! 👋
-### Meu nome é Lucas Sobral
+### My name is Lucas Sobral
+I'm Brazilian and I'm 29 years old;
+
+I can speak Portuguese, English, Spanish and ein bisschen Deutsch;
+
 
 
 - 🔭 I’m currently working with StealCut Laser Machine
