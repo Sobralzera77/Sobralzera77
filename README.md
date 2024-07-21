@@ -14,3 +14,5 @@ I can speak Portuguese, English, Spanish and ein bisschen Deutsch;
 </div>
 - ⚡ Fun fact: Traveling to Thailand changed my life, I can talk about for hours...
 
+
+
